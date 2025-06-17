@@ -69,8 +69,6 @@ export default function AboutPage() {
             </p>
             <p>
                 Tenant First Aid and Qiu-Qiu Law and its affiliated organizations make no claim as to accuracy and is not responsible for any consequences that may result from the use of Tenant First Aid. We recommend that you consult with a licensed attorney if you want assurance that the information provided is appropriate for your particular situation. You should not and are not authorized to rely on Tenant First Aid as a source of legal advice. The use of Tenant First Aid does not create an attorney-client relationship between you and Tenant First Aid, Qiu-Qiu Law, or any of its affiliated organizations.
-
-
             </p>
         </div>
     );
